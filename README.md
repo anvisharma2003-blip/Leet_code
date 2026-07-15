@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0503-next-greater-element-ii](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0503-next-greater-element-ii) |
 ## Stack
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0543-diameter-of-binary-tree) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0543-diameter-of-binary-tree) |
@@ -118,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0088-merge-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
