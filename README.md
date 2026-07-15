@@ -77,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
