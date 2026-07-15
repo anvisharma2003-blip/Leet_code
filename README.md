@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -67,4 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
