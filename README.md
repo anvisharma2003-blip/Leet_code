@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0067-add-binary) |
 ## Bit Manipulation
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0572-subtree-of-another-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
