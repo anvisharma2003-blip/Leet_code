@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0503-next-greater-element-ii) |
 ## Stack
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0100-same-tree) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
