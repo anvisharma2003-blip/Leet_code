@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0088-merge-sorted-array) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
