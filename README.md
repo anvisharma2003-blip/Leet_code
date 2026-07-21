@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0503-next-greater-element-ii](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0503-next-greater-element-ii) |
+| [1037-valid-boomerang](https://github.com/anvisharma2003-blip/Leet_code/tree/master/1037-valid-boomerang) |
 ## Stack
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0067-add-binary) |
+| [1037-valid-boomerang](https://github.com/anvisharma2003-blip/Leet_code/tree/master/1037-valid-boomerang) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0039-combination-sum) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/anvisharma2003-blip/Leet_code/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
