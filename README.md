@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0205-isomorphic-strings) |
 ## Trie
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0205-isomorphic-strings](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0653-two-sum-iv-input-is-a-bst) |
