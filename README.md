@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/anvisharma2003-blip/Leet_code/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Combinatorics
 |  |
 | ------- |
@@ -239,10 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/anvisharma2003-blip/Leet_code/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0210-course-schedule-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/anvisharma2003-blip/Leet_code/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -251,4 +254,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/anvisharma2003-blip/Leet_code/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
