@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0994-rotting-oranges) |
 ## String
 |  |
@@ -236,8 +238,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0210-course-schedule-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
