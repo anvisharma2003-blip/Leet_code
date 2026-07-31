@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0994-rotting-oranges) |
 | [1037-valid-boomerang](https://github.com/anvisharma2003-blip/Leet_code/tree/master/1037-valid-boomerang) |
+| [1514-path-with-maximum-probability](https://github.com/anvisharma2003-blip/Leet_code/tree/master/1514-path-with-maximum-probability) |
 ## Stack
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/anvisharma2003-blip/Leet_code/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/anvisharma2003-blip/Leet_code/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -250,9 +252,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/anvisharma2003-blip/Leet_code/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/anvisharma2003-blip/Leet_code/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/anvisharma2003-blip/Leet_code/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
