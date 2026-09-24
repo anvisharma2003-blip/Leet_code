@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0039-combination-sum) |
+| [0055-jump-game](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0088-merge-sorted-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/anvisharma2003-blip/Leet_code/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
