@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0219-contains-duplicate-ii) |
+| [0322-coin-change](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0322-coin-change) |
 | [0503-next-greater-element-ii](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0994-rotting-oranges) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0617-merge-two-binary-trees) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0322-coin-change) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/anvisharma2003-blip/Leet_code/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Combinatorics
 |  |
@@ -276,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0055-jump-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anvisharma2003-blip/Leet_code/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
